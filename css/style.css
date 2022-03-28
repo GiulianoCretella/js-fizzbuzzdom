@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+#app{
+    background-color: #093B4C;
+}
+
+.my_square{
+    width: 100px;
+    height: 100px;
+    margin:0 auto;
+    text-align: center;
+    font-size: 15px;
+    line-height: 90px;
+}
+
+.ms-color-1{
+    background-color:#1688B2
+}
+.ms-color-2{
+    background-color:#F1C661
+}
+.ms-color-3{
+    background-color:#09D6A1
+}
+.ms-color-4{
+    background-color: #F0466F;
+}
